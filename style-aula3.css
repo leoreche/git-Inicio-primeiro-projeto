@@ -1,0 +1,23 @@
+html {
+    font-size: 40px;
+}
+
+.vo {
+font-size: 8px;
+}
+
+.pai {
+    background: red;
+    width: 50vw;
+    height: 50vh;
+    color: wheat;
+    font-size: 2em;
+}
+
+.filho {
+    background: blue;
+    width: 20%;
+    height: 20%;
+    color: white;
+    font-size:2rem;
+}

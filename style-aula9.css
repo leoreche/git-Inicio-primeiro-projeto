@@ -1,0 +1,23 @@
+.box {
+    width: 50px;
+    height: 50px;
+    background: blueviolet; /*cor de fundo*/
+    margin: 20px; /*espaçamento da caixa nos 4 cantos*/
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.box2{
+    width: 50px;
+    height: 50px;
+    background: rgb(9, 66, 189);
+    padding: 20px;       /*Expansão*/
+    margin-top: 10px;   /* margem em um dos lados */
+    margin-bottom: 30px;
+    margin-left: 5px;
+    margin-right: 2px;
+
+
+}

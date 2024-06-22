@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:  "Jost", sans-serif;
+    font-style: italic;
+    line-height: 30px;
+    word-spacing: 10px;
+    text-shadow: 10px 10px 10px #f00000; /*fumaça no texto*/
+}
+
+p {
+
+    color: #f00;    /* troca a cor do texto*/
+    font-size: 20px;    /*Troca o tamanho do texto*/
+    font-weight: bold;  /*deixar em Negrito, mais greto ainda BOLDER,Menos LIGTH*/
+    font-family: "Jost", sans-serif;  /*Fonte do google fontes*/
+    /* font-style: italic; - /deixar a fonte deitada/
+    line-height: 30px;          /espaçamento entre linhas/
+    word-spacing: 30px;         /espaçamento entre letras/
+    /* text-align: justify;   /texto centralizado, pra direita, esquerda*/
+    text-transform: capitalize; /*Deixar a fonte TUDO MMINUSCULO-LOWERCASE, MAIIUSCULO-UPPERCASE , */
+    text-decoration: underline; /*UNDERLINE em todo texto*/
+
+}
